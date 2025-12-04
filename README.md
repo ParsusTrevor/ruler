@@ -1,5 +1,7 @@
 ruler
 =====
+Test 
+
 Simple on-screen pixel ruler.
 
 [<img src="https://andrijac.visualstudio.com/_apis/public/build/definitions/e1a573e5-0959-4685-8cce-05da5e128d6a/1/badge"/>](https://andrijac.visualstudio.com/ruler/_build/index?definitionId=e1a573e5-0959-4685-8cce-05da5e128d6a)
